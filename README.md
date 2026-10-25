@@ -1,5 +1,7 @@
 # esp32-p4-music-page
 
+![音乐页实机效果](docs/demo.jpg)
+
 > A NetEase-style vinyl music page for ESP32 touchscreens — mirror and control
 > your PC's music player over LAN, with live cover art and scrolling lyrics.
 > Windows agent included.
