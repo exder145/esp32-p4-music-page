@@ -1,0 +1,7 @@
+## 组件依赖（板端）
+## esp_wifi_remote 不在此声明：它只用于 ESP32-P4+C5（esp-hosted）工程，
+## 且这类工程（xiaozhi 等）一般已自带；单芯片 Wi-Fi 板走 IDF 自带的 esp_wifi。
+dependencies:
+  idf: ">=5.3"
+  lvgl/lvgl: "~9.2"
+  espressif/esp_new_jpeg: "^1.1"

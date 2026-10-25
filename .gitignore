@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# ESP-IDF
+build/
+managed_components/
+dependencies.lock
+
+# 临时产物
+*.dll
+.cache/
